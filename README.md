@@ -1,6 +1,8 @@
 # Mini sitema de transações
 Este é um sistema para um processo seletivo. 
 
+link para o repositório com o frontend: https://github.com/viisantos/transacoes-frontend
+
 Neste sistema o usuário pode se cadastrar, visualiar usuários cadastrados e cadastrar, editar, visualizar um registro de transação na tela de edição, e realizar a atualização desse registro.
 O usuário também pode acessar uma tela com o resumo das transações. 
 
